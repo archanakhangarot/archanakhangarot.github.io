@@ -46,6 +46,7 @@ GenAI, LLM, DL, ML, Python,Langchain, Autogen, Chroma DB, Neo4j, SolrDB, MySQL, 
 - A series of data transformations, conditional logic, and statistical thresholds are used to approximate the EDD and potential delay of packages.
 - Used various bagging and boosting techniques in Python and Pyspark for classification modeling purpose.
 - This development project is part of FedEx DataWorks’s longer term goal of developing an operating-company-agnostic learning model that has high coverage of the total package population and which has performance that surpasses current approaches.
+
 ### GEICO
 - Built and deployed 7 response models, these were state response model about capturing the probability that a customer will respond to direct postal mailing for Insurance Client.
 - Designed and developed customer segmentation model using Kmeans clustering where roughly 85% of US population is segmented to 6 different clusters after analyzing 1600 different variables.
