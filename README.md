@@ -18,14 +18,17 @@ GenAI, LLM, DL, ML, Python,Langchain, Autogen, Chroma DB, Neo4j, SolrDB, MySQL, 
 ### Actionable Invoice Summary
 - Designed and implemented a pipeline for extracting tasks, activities, and personnel from retrieved invoices in the database, leveraging traditional NLP techniques and a GPT-based pipeline. The extracted data was visualized in the UI using a Tree map for intuitive representation.
 - Developed a conversational chatbot to interact with past invoices and matters stored in the Solr database, utilizing agents through an agentic framework Autogen defined for various tasks
+
 ### UTBMS Task Code Recommender
 - Built and deployed an end-to-end UTBMS Task Code Prediction pipeline, automating the classification of legal billing lines into task codes, significantly improving operational efficiency for a legal client.
 - Designed a scalable, multi-step and multi-classification machine learning pipeline using advanced models like Random Forest and XGBoost, handling over 100,000 billing line items per run.
 - Implemented a dynamic configuration framework where key pipeline parameters are fetched from a database, reducing hardcoding and enabling easy updates.
 - Delivered actionable insights and improved model reliability by ensuring compatibility with existing LBA-DS architecture, facilitating seamless integration into the organization’s ecosystem.
+
 ### LBA AI (LLM)
 - Created a data preparation and sampling strategy using K-Means Clustering, along with an algorithm designed to identify and extract dissimilar and unique lines stored as Knowledge Graph using Neo4j.
 - Implemented a RAG (Retrieval-Augmented Generation) pipeline integrated with Chroma DB, utilizing well-crafted prompt engineering for enhanced performance.
+
 ### LBA AI (DS)
 - Developed & integrated Random Forest and Logistic Regression for Travel Module, following extensive feature engineering and exploratory data analysis (EDA).
 - Developed 15+ custom components for multiple clients using Python and NLP techniques across 6+ modules from LBA-DS.
