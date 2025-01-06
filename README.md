@@ -1,8 +1,10 @@
 # Data Scientist
 
-#### Profile: Overall 8.5 years of IT experience with 6 years of experience in data science space specializing in the development and deployment of cutting-edge Generative AI and Large Language Models using Langchain. Proven expertise in building innovative NLP and AI solutions to drive business value. Proficient in data visualization and analysis using Pandas, Matplotlib, and Plotly. Experience in architecting Artificial Intelligence applications with Machine Learning, Deep Learning with Python and Fast API following a Test-Driven development.
+#### Profile: 
+Overall 8.5 years of IT experience with 6 years of experience in data science space specializing in the development and deployment of cutting-edge Generative AI and Large Language Models using Langchain. Proven expertise in building innovative NLP and AI solutions to drive business value. Proficient in data visualization and analysis using Pandas, Matplotlib, and Plotly. Experience in architecting Artificial Intelligence applications with Machine Learning, Deep Learning with Python and Fast API following a Test-Driven development.
 
-#### Technical Skills: GenAI, LLM, DL, ML, Python,Langchain, Autogen, Chroma DB, Neo4j, SolrDB, MySQL, FastAPI, Flask, ML flow, GIT                          
+#### Technical Skills: 
+GenAI, LLM, DL, ML, Python,Langchain, Autogen, Chroma DB, Neo4j, SolrDB, MySQL, FastAPI, Flask, ML flow, GIT                          
 
 ## Education
 - PGP, AI & ML | Greate Lakes University (2018-2019)
